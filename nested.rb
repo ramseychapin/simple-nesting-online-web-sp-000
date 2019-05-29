@@ -21,7 +21,7 @@ def hopper
 end
 
 def alan_kay_is_known_for
-	hopper(programmer_hash[:alan_kay][:known_for]
+	hopper(programmer_hash[:alan_kay][:known_for])
 end
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
